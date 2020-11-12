@@ -20,6 +20,35 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1===>apt-get install tor
 
 
@@ -27,13 +56,13 @@
 
 
 2===>pip3 install requests
+3===>git clone https://github.com/zoro8050/proxy-zoro
 
+4===>cd proxy..zoro
 
-3===>cd proxy..zoro
+5===>python3 install.py
 
-4===>python3 install.py
-
-5===>python3 proxy-zoro.py  
+6===>python3 proxy-zoro.py  
 
 
 
