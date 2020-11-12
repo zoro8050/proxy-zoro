@@ -51,7 +51,7 @@
 
 
 
-2===>pip3 install requests
+
 3===>git clone https://github.com/zoro8050/proxy-zoro
 
 4===>cd proxy..zoro
